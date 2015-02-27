@@ -1,4 +1,4 @@
-Scale-Inariance
+Scale-Invariance
 ===============
 
 We briefly explore the conjecture that real road networks have the property that the ratio between the geodesic distance and road distance between any two points is scale invariant.  That is, no matter how close or far apart two points are, they enjoy the same ratio between their geodesic and road network distances.
